@@ -1,0 +1,4 @@
+
+Dobrze, że usuwacie kolumny z niską wariancją. Pytanie, tylko czy próg jest odpowiedni - kwestia do przemyślenia.
+Brakuje trochę wniosków - warto napisać, jak wasze przekształcenia cech wpływają na predykcyjność modelu. Warto sprawdzić to za pomocą jakichś testów (my korzystaliśmy z testu chi-kwadrat dla zmiennych binarnych i Anova-F test) albo od razu sprawdzić ich działanie na przykładowych modelach.
+Lekki chaos w kodzie, ale tak ogólnie jest git.
