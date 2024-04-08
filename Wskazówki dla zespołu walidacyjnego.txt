@@ -1,0 +1,3 @@
+Hej, na naszym Githubie znajduje się obecnie plik "orig_test.csv", który może posłużyć Wam do zweryfikowania poprawności naszego modelu.
+Aby prawidłowo z niego skorzystać, należy wywołać na nim dwa notebooki: "Projekt 1 - Feature Engineering" oraz "Projekt 1 - Model Building".
+W pliku "Projekt 1 - Feature Engineering" wystarczyć wczytać notebook "orig_test.csv" do zmiennej data i następnie zapisać go na koniec pod dowolną nazwą. Następnie zapisaną csv-kę należy wczytać do zmiennej valid_data w notebooku "Projekt 1 - Model Building".
