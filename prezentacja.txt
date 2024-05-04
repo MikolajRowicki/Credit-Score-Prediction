@@ -1,0 +1,18 @@
+5 slajdów po 3 minuty, argumenty:
+- walidacja przez niezależny zespół
+- shapy
+- interpretacja modelu
+- brak konkretów
+
+Plan prezentacji:
+1. Agenda
+2. Cel biznesowy
+3. Pokazanie, że było wiele modeli, ale ten jeden jest najlepszy - potwierdził to zespół walidacyjny
+4. Pokazanie, że wiemy, jak działa model, jakie jest znaczenie poszczególnych zmiennych (wartości Shapleya, etc.)
+5. Korzyści, jakie przynosi wdrożenie modelu dla firmy
+
+
+Raport walidacyjny może być w pdf-ie lub jupyterze.
+Raport z budowy ma być w formie prezentacji.
+
+Praca zwinna

@@ -1,0 +1,2 @@
+Wartości w kolumnie Finalised Loan zostały sklasyfikowane przez eksperta do spraw bankowości, który wziął pod uwagę wszystkie aspekty tematu i doszedł do fundamentalnej konkluzji, czy warto udzielić danemu klientowi kredytu. W naszym modelu chcemy odkryć zależności, jakimi posługuje się wyżej wymieniony ekspert w celu automatyzacji procesu wydawania decyzji kredytowych.
+Boimy się utraty dobrego klienta, to znaczy, że nie damy kredytu komuś, kto na niego zasługuje. Chcemy zminimalizować false negative. Zależy nam na jak najlepszym recallu.
